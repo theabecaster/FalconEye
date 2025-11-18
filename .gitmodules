@@ -1,0 +1,6 @@
+[submodule "Aerie"]
+	path = Aerie
+	url = git@github.com:theabecaster/Aerie.git
+[submodule "HawkSight"]
+	path = HawkSight
+	url = git@github.com:theabecaster/HawkSight.git
